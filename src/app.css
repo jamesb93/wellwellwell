@@ -9,6 +9,7 @@ h1 {
 body {
 	background-color: #42ff01;
 	cursor: none; /* Hide the default cursor */
+	background-image: url('/bg.png')
 }
 
 html, html > * {
