@@ -1,0 +1,16 @@
+html {
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 4em;
+}
+
+body {
+	background-color: #42ff01;
+	cursor: none; /* Hide the default cursor */
+}
+
+html, html > * {
+	cursor: url('/piwi-cursor.png'), auto;
+}
